@@ -2,7 +2,7 @@ Y=2020
 M=5
 D=8
 i=22
-comment="trending, likedVideos"
+comment="toast notifications, progress bars, redux states"
 
 export GIT_COMMITTER_DATE="$Y-$M-$D 10:$i:34"
 export GIT_AUTHOR_DATE="$Y-$M-$D 10:$i:34"
