@@ -1,8 +1,8 @@
 Y=2020
 M=5
-D=12
+D=13
 i=22
-comment="updated README"
+comment="updated README.md, fixed undefined views"
 
 export GIT_COMMITTER_DATE="$Y-$M-$D 10:$i:34"
 export GIT_AUTHOR_DATE="$Y-$M-$D 10:$i:34"
