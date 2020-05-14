@@ -1,8 +1,8 @@
 Y=2020
 M=5
-D=13
+D=14
 i=22
-comment="updated README.md, fixed undefined views"
+comment="limit video size to 30mb"
 
 export GIT_COMMITTER_DATE="$Y-$M-$D 10:$i:34"
 export GIT_AUTHOR_DATE="$Y-$M-$D 10:$i:34"
