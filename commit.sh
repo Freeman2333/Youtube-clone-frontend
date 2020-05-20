@@ -2,7 +2,7 @@ Y=2020
 M=5
 D=20
 i=22
-comment="wrong status badge"
+comment="extension fix"
 
 export GIT_COMMITTER_DATE="$Y-$M-$D 10:$i:34"
 export GIT_AUTHOR_DATE="$Y-$M-$D 10:$i:34"
