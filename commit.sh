@@ -1,8 +1,8 @@
 Y=2020
 M=5
-D=20
+D=21
 i=23
-comment="video uploads paused"
+comment="allow video uploads"
 
 export GIT_COMMITTER_DATE="$Y-$M-$D 10:$i:34"
 export GIT_AUTHOR_DATE="$Y-$M-$D 10:$i:34"
