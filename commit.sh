@@ -1,8 +1,8 @@
 Y=2020
 M=5
-D=26
+D=29
 i=23
-comment="fixed catch statement when signing up"
+comment="Update ReadMe."
 
 export GIT_COMMITTER_DATE="$Y-$M-$D 10:$i:34"
 export GIT_AUTHOR_DATE="$Y-$M-$D 10:$i:34"
