@@ -81,16 +81,3 @@ Then run <code>npm i</code> and <code>npm start</code> to see the youtube clone 
 ### Search
 
 ![Search](screenshots/search_results.png)
-
-## My Clone Trilogy
-
-With this clone, I am finishing what I call 'my clone trilogy'. If you are interested, you can visit my other clones that are part of this trilogy
-
-1. Twitter
-
-   - [Frontend](https://github.com/manikandanraji/twitter-clone-frontend)
-   - [Backend](https://github.com/manikandanraji/twitter-clone-frontend)
-
-2. Instagram
-   - [Frontend](https://github.com/manikandanraji/instaclone-frontend)
-   - [Backend](https://github.com/manikandanraji/instaclone-backend)
